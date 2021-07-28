@@ -1,0 +1,6 @@
+objcopy.exe --update-section ER_IROM1="e:\WJ\JK\Program\MingLing\software\simple_7inches\MDK-ARM\build\simple_7inches\MDK-ARM.bin" "e:\WJ\JK\Program\MingLing\software\simple_7inches\MDK-ARM\build\simple_7inches\MDK-ARM.axf" "e:\WJ\JK\Program\MingLing\software\simple_7inches\MDK-ARM\build\simple_7inches\MDK-ARM.elf"
+
+objcopy.exe: e:\WJ\JK\Program\MingLing\software\simple_7inches\MDK-ARM\build\simple_7inches\MDK-ARM.elf: warning: allocated section `RW_IRAM1' not in segment
+
+WARNING: The runtime version supported by this application is unavailable.
+Using default runtime: v4.0.30319

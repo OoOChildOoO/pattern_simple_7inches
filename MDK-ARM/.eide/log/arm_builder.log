@@ -1,0 +1,12 @@
+[2021-07-28 10:01:19]	link failed !, exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0127b] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-07-28 10:03:20]	[done]
+	build successfully !
+
+[2021-07-28 10:03:32]	[done]
+	build successfully !
+
+[2021-07-28 10:07:02]	[done]
+	build successfully !
+

@@ -1,0 +1,24 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "name": "Core",
+            "path": "..\\Core"
+        },
+        {
+            "name": "simple_7inches",
+            "path": ".."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            ".eideignore": "ignore"
+        },
+        "C_Cpp.default.intelliSenseMode": "gcc-arm",
+        "files.autoGuessEncoding": true,
+        "C_Cpp.default.cppStandard": "c++14",
+        "C_Cpp.default.cStandard": "c99"
+    }
+}

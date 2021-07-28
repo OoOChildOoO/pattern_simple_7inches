@@ -1,0 +1,32 @@
+--cpu Cortex-M4.fp --library_type=microlib --scatter "e:/WJ/JK/Program/MingLing/software/simple_7inches/MDK-ARM/build/simple_7inches/MDK-ARM.sct" --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols --info sizes --info totals --info unused --info veneers
+--list .\build\simple_7inches\MDK-ARM.map
+.\build\simple_7inches\Mit_funtion.o
+.\build\simple_7inches\Mit_menu_files.o
+.\build\simple_7inches\Patfun.o
+.\build\simple_7inches\ScrollBar.o
+.\build\simple_7inches\Toast.o
+.\build\simple_7inches\communication.o
+.\build\simple_7inches\exfunction.o
+.\build\simple_7inches\flashsave.o
+.\build\simple_7inches\function.o
+.\build\simple_7inches\lcddisp.o
+.\build\simple_7inches\msgpic.o
+.\build\simple_7inches\register.o
+.\build\simple_7inches\upflash.o
+.\build\simple_7inches\menu_convert.o
+.\build\simple_7inches\menu_create.o
+.\build\simple_7inches\menu_documents.o
+.\build\simple_7inches\menu_function.o
+.\build\simple_7inches\menu_help.o
+.\build\simple_7inches\menu_iotest.o
+.\build\simple_7inches\menu_modify.o
+.\build\simple_7inches\menu_p.o
+.\build\simple_7inches\menu_program.o
+.\build\simple_7inches\viewPattern.o
+.\build\simple_7inches\main.o
+.\build\simple_7inches\systemMain.o
+.\build\simple_7inches\system_stm32f4xx.o
+.\build\simple_7inches\utility.o
+.\build\simple_7inches\startup_stm32f429xx.o
+e:\WJ\JK\Program\MingLing\software\simple_7inches\Core\User\lib\cpulib.lib
+e:\WJ\JK\Program\MingLing\software\simple_7inches\Core\User\lib\doptlib.lib -o .\build\simple_7inches\MDK-ARM.axf

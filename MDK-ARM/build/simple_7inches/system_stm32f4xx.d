@@ -1,0 +1,10 @@
+.\build\simple_7inches\system_stm32f4xx.o: e:\WJ\JK\Program\MingLing\software\simple_7inches\Core\User\boot\Src\system_stm32f4xx.c
+.\build\simple_7inches\system_stm32f4xx.o: .\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\build\simple_7inches\system_stm32f4xx.o: .\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f429xx.h
+.\build\simple_7inches\system_stm32f4xx.o: .\..\Drivers\CMSIS\Include\core_cm4.h
+.\build\simple_7inches\system_stm32f4xx.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\build\simple_7inches\system_stm32f4xx.o: .\..\Drivers\CMSIS\Include\cmsis_version.h
+.\build\simple_7inches\system_stm32f4xx.o: .\..\Drivers\CMSIS\Include\cmsis_compiler.h
+.\build\simple_7inches\system_stm32f4xx.o: .\..\Drivers\CMSIS\Include\cmsis_armcc.h
+.\build\simple_7inches\system_stm32f4xx.o: .\..\Drivers\CMSIS\Include\mpu_armv7.h
+.\build\simple_7inches\system_stm32f4xx.o: .\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
